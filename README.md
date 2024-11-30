@@ -4,7 +4,7 @@
 #### Description:
 This is a TypeScript, Svelte and Web Audio API virtual analog subtractive synthesizer.
 
-![screenshot](screenshots/screenshot-05.png)
+![screenshot](screenshots/screenshot-01.png)
 
 This synthesizer has the folowing features:
 * 2 general purpose oscillators, inspired mostly be 80's synthesizers, with the folowing features:
